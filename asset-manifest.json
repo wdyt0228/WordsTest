@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WordsTest/static/css/main.65cb76f6.css",
+    "main.js": "/WordsTest/static/js/main.2407df1c.js",
+    "static/js/787.79b570ed.chunk.js": "/WordsTest/static/js/787.79b570ed.chunk.js",
+    "static/media/bg.png": "/WordsTest/static/media/bg.473f2915ef29bbff611e.png",
+    "static/media/poor.gif": "/WordsTest/static/media/poor.6b68f3b42440e9d33a85.gif",
+    "static/media/yet.png": "/WordsTest/static/media/yet.1a054145d5afb5b2bac0.png",
+    "static/media/perfect.png": "/WordsTest/static/media/perfect.55cbd81d8cac0ad82dc1.png",
+    "index.html": "/WordsTest/index.html",
+    "main.65cb76f6.css.map": "/WordsTest/static/css/main.65cb76f6.css.map",
+    "main.2407df1c.js.map": "/WordsTest/static/js/main.2407df1c.js.map",
+    "787.79b570ed.chunk.js.map": "/WordsTest/static/js/787.79b570ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cb76f6.css",
+    "static/js/main.2407df1c.js"
+  ]
+}
