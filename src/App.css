@@ -71,7 +71,7 @@ label.radio span{margin-left:5px;}
   border-radius:15px;border:1px solid #fff;box-shadow:1px 1px 5px #999;}
 #container span.span01{font-weight:bold;text-shadow:1px 1px 2px #fff;}
 #container p.p01{font-size:16px;text-shadow:1px 1px 2px #fff;}
-#container input.textbox{box-sizing:border-box;border:1px solid #fff;background:#fff;color:#000;text-shadow:none;box-shadow:1px 1px 5px #999,1px 1px 1px #bbb inset;
+#container input.textbox{float:left;box-sizing:border-box;border:1px solid #fff;background:#fff;color:#000;text-shadow:none;box-shadow:1px 1px 5px #999,1px 1px 1px #bbb inset;
   height:40px;padding:0 10px;border-radius:10px;}
 #container input.textbox:focus{outline:1px solid #408dfd;}
 
